@@ -1,4 +1,3 @@
-<img width="1873" height="998" alt="Screenshot 2025-07-25 095557" src="https://github.com/user-attachments/assets/be9f9759-afaf-42b8-a39c-259f7f9a2090" />
 # Stock Price Prediction using Machine Learning
 
 ## Project Overview
@@ -21,3 +20,5 @@ This project implements a machine learning system to predict stock prices using 
 
 ## Author
 Sarang Kulkarni - AI/ML Engineer
+
+<img width="1873" height="998" alt="Screenshot 2025-07-25 095557" src="https://github.com/user-attachments/assets/be9f9759-afaf-42b8-a39c-259f7f9a2090" />
